@@ -19,6 +19,8 @@ Give the artist name, give the music video name, and run.
 
 A script will be downloaded containing the ASCII version of the k-pop music video. This only works in POSIX and Linux OSes. 
 
+[**And get a taste of it here.**](https://colab.research.google.com/drive/1zlPOUf1s2MtR3wewayRK2TYtZDED5qCx?usp=sharing)
+
 ## Planned
 - Support input entries with all caps lock _— I don't know why companies do this anyway_. 
 - Localization
