@@ -20,9 +20,9 @@ Give the artist name, give the music video name, and run.
 A script will be downloaded containing the ASCII version of the k-pop music video. This only works in POSIX and Linux OSes. 
 
 ## Planned
-- [] Support input entries with all caps lock. 
-- [] Localization
-- [] **more artists**
+- Support input entries with all caps lock. 
+- Localization
+- **more artists**
 
 ## About Copyright
 The rights of these videos go to their artists and their entertainment agencies. In addition, this script is not affiliated with any of the artists. 
