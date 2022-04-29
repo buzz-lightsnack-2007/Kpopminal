@@ -20,16 +20,16 @@ Give the artist name, give the music video name, and run.
 A script will be downloaded containing the ASCII version of the k-pop music video. This only works in POSIX and Linux OSes. 
 
 ## Planned
-- Support input entries with all caps lock. 
+- Support input entries with all caps lock _— I don't know why companies do this anyway_. 
 - Localization
 - **more artists**
 
 ## About Copyright
-The rights of these videos go to their artists and their entertainment agencies. In addition, this script is not affiliated with any of the artists. 
+The rights of these videos go to their artists and their entertainment agencies. In addition, this script is not affiliated with these bodies. 
 
 ## How to contribute
-Yes, I'd love to receive feedback. Kindly let me know what you think! 
+Yes, I'd love to receive feedback. Kindly let me know what you think in the [Disccusions](https://github.com/buzz-lightsnack-2007/Kpopminal/discussions/categories/ideas-and-feedback) page! 
 
-When you would want to include a new music video, kindly make an issue mentioning the name and the _direct_ download URL of the video. 
+When you would want to include a new music video, kindly make a [new discussion](https://github.com/buzz-lightsnack-2007/Kpopminal/discussions/categories/music-videos) mentioning the name and the _direct_ download URL of the video. 
 
 
