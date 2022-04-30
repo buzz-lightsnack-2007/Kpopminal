@@ -25,6 +25,7 @@ A script will be downloaded containing the ASCII version of the k-pop music vide
 - localization
 - custom resolution
 - **more artists**
+    - Yes: right now, it is only linked to TWICE MVs. More info to contribute to this below! 
 
 ## About Copyright
 The rights of these videos go to their artists and their entertainment agencies. In addition, this script is not affiliated with these bodies. 
