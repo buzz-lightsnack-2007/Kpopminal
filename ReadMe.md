@@ -1,5 +1,4 @@
 ![preview01](https://github.com/buzz-lightsnack-2007/Kpopminal/blob/main/preview/preview01.png?raw=true)
-<small>MORE & MORE, © 2020 JYP Entertainment</small>
 
 # Kpop'minal
 Watch K-pop music videos in an ASCII format. 
