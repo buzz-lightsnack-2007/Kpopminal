@@ -1,3 +1,5 @@
+![preview01](https://github.com/buzz-lightsnack-2007/Kpopminal/blob/main/preview/preview01.png?raw=true)
+
 # Kpop'minal
 Watch K-pop music videos in an ASCII format. 
 
