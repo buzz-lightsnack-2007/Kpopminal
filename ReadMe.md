@@ -5,6 +5,8 @@ Watch K-pop music videos in an ASCII format.
 
 _Uses [`video-to-ascii` by joelibaceta](https://github.com/joelibaceta/video-to-ascii)_. 
 
+[**▶︎ Run**](https://colab.research.google.com/github/buzz-lightsnack-2007/Kpopminal/blob/main/Kpop'minal.ipynb)
+
 ## How it came
 One thing fascinating about command lines is that they can do many things that GUIs do, such as moving files, editing files, etc. 
 
@@ -21,7 +23,7 @@ Give the artist name, give the music video name, and run.
 
 A script will be downloaded containing the ASCII version of the k-pop music video. This only works in POSIX and Linux OSes. 
 
-[**And get a taste of it here.**](https://colab.research.google.com/drive/1zlPOUf1s2MtR3wewayRK2TYtZDED5qCx?usp=sharing)
+[**And get a taste of it here.**](https://colab.research.google.com/github/buzz-lightsnack-2007/Kpopminal/blob/main/Kpop'minal.ipynb)
 
 ## Planned
 - localization
